@@ -9028,10 +9028,10 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 #greytext {
-  color: grey;
+  color: dimgrey;
 }
 
 em#greytext {
-  color:grey;
+  color: dimgrey;
   font-weight: normal;
 }
